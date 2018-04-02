@@ -15,6 +15,7 @@ body {
 
 body {
     font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    /*    font-family: Verdana, Arial, Helvetica, sans-serif; */
 }
 
 .text-vertical-center {
@@ -298,4 +299,14 @@ footer {
 
 .white {
     color: white;
+}
+
+.fa.fa-circle svg.icon {
+    position: absolute;
+    left: 0;
+    top: 15px;
+    width: 100%;
+    text-align: center;
+    height: 65%;
+    fill: #46BAE3;
 }
