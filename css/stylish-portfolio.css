@@ -35,7 +35,7 @@ body {
 /* Custom Button Styles */
 
 .btn-dark {
-    color: #fff;
+    color: rgb(248, 179, 52);
     border: none;
     border-radius: 0;
     background-color: rgba(0, 0, 0, .4);
@@ -44,7 +44,7 @@ body {
 .btn-dark:hover,
 .btn-dark:focus,
 .btn-dark:active {
-    color: #fff;
+    color: rgb(248, 179, 52);
     background-color: rgba(0, 0, 0, .7);
 }
 
@@ -110,7 +110,7 @@ hr.small {
 
 .sidebar-nav li a:hover {
     text-decoration: none;
-    color: #fff;
+    color: rgb(248, 179, 52);
     background: rgba(255, 255, 255, .2);
 }
 
@@ -130,7 +130,7 @@ hr.small {
 }
 
 .sidebar-nav>.sidebar-brand a:hover {
-    color: #fff;
+    color: rgb(248, 179, 52);
     background: none;
 }
 
@@ -165,7 +165,7 @@ hr.small {
     display: table;
     width: 100%;
     height: 100%;
-    color: #fff;
+    color: rgb(248, 179, 52);
     background: url(http://3.bp.blogspot.com/-wKZrI23edd0/UvnnB6s_svI/AAAAAAAABGk/f7IKDg0jqMU/s1600/Panorama_Barna_Noche.jpg) no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -198,7 +198,7 @@ hr.small {
     display: table;
     width: 100%;
     height: 400px;
-    color: #fff;
+    color: rgb(248, 179, 52);
     background: url(../img/callout.jpg) no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -308,5 +308,5 @@ footer {
     width: 100%;
     text-align: center;
     height: 65%;
-    fill: #46BAE3;
+    fill: rgb(22, 22, 22);
 }
