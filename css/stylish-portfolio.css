@@ -301,7 +301,11 @@ footer {
     color: white;
 }
 
+.fa.fa-circle {
+    color: rgb(248, 179, 52)!important;
+}
 .fa.fa-circle svg.icon {
+   
     position: absolute;
     left: 0;
     top: 15px;
